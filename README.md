@@ -17,6 +17,8 @@
 ##使用技術
 　Laravel 8.x
 ##テーブル設計
+![スクリーンショット 2024-01-08 191530](https://github.com/tocotocoyu-ka/rese2/assets/138411087/78c9cd6d-0a0a-41db-9b37-3c583dc748f5)
+##ER図
 ![スクリーンショット 2024-01-08 220353](https://github.com/tocotocoyu-ka/rese2/assets/138411087/fcc1bc41-337d-4a35-b019-b8d3267bb39d)
 ##環境構築
 　ホームページへアクセスすると、店舗一覧画面が閲覧できます。
