@@ -1,0 +1,36 @@
+.box {
+    padding: 0.5em 1em;
+    margin: 2em 5em;
+    width: 10px;
+    color: #FFF;
+    background: #3b6fde;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.25);
+    border-radius: 9px;
+}
+
+.box a {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+}
+
+.menu-close {
+    text-decoration: none;
+}
+
+.content {
+    margin-top: 100px;
+}
+
+.menu__link {
+    text-align: center;
+    padding: 10px 5px;
+}
+
+.menu__link a {
+    padding: 1em 1em;
+    text-decoration-line: none;
+    color: #3b6fde;
+    font-size: 20px;
+    font-weight: bold;
+}

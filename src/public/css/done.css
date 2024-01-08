@@ -1,0 +1,35 @@
+.done__content {
+    max-width: 1500px;
+    height: 720px;
+    padding-top: 120px;
+    padding-left: 550px;
+    background: #EEEEEE;
+}
+
+.done__card {
+    width: 400px;
+    height: 250px;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0px 3px 10px rgba(36, 35, 35, 0.2);
+}
+
+.done__content-message {
+    padding-top: 50px;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.done__content-button {
+    margin-top: 45px;
+}
+
+.exit__button {
+    color: #fff;
+    background: #3b6fde;
+    border: none;
+    border-radius: 3px;
+    width: 50px;
+    height: 30px;
+}
